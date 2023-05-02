@@ -20,6 +20,6 @@ spec:
     spec:
       containers:
       - name: frontend
-        image: reeceqa/python-frontend
+        image: reeceqa/python-frontend-purple
         ports:
         - containerPort: 5000
